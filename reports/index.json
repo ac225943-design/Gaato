@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-151027-rku3",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-09-19T21:10:27.000Z",
+      "dateEnd": "2026-09-19T21:56:37.313Z",
+      "dateLabel": "9/19/2026, 3:10:27 PM - 9/19/2026, 3:56:37 PM",
+      "url": "https://ac225943-design.github.io/Gaato/?report=20260919-151027-rku3",
+      "summary": {
+        "borderlandsPct": 0.35555555555555557,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260912-150825-ic25",
       "title": "Alàide",
       "commanders": [
