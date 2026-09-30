@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-191508-9z15",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-09-30T01:15:08.000Z",
+      "dateEnd": "2026-09-30T01:59:54.712Z",
+      "dateLabel": "9/29/2026, 7:15:08 PM - 9/29/2026, 7:59:54 PM",
+      "url": "https://ac225943-design.github.io/Gaato/?report=20260929-191508-9z15",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260927-151957-66tl",
       "title": "Alàide, Notzwollf",
       "commanders": [
